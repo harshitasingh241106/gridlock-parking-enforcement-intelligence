@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.2
+folium>=0.14
+h3>=4.0  # optional: enables true hexagonal grid cells; pipeline falls back to a lat/lon grid if not installed
